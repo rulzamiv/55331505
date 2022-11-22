@@ -7,7 +7,7 @@ jobs:
   build: 
     executor:
       name: win/default 
-      size: "small" 
+      size: "medium" 
  
     steps:
       - run:
